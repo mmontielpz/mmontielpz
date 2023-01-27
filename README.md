@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmontielpz&label=Profile%20views&color=0e75b6&style=flat" alt="mmontielpz" /> </p>
 
-- 🔭 I’m currently working on [My PhD Tesis]([https://www.citedi.mx/portal/](https://doctorado.citedi.mx/portal/programaacademicoMatricula.php))
+- 🔭 I’m currently working on [My PhD Tesis](https://doctorado.citedi.mx/portal/programaacademicoMatricula.php)
 
 - 🌱 I’m currently learning **Kubernetes, MLOps, Ivy**
 
