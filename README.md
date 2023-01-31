@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Ivy](https://github.com/unifyai/ivy)
 
-- 💬 Ask me about **Python, PyTorch, Linux, Jetson, Computer Vision, Deep Learning, Autonomous Vehicles, Real-Time**
+- 💬 Ask me about **Python, PyTorch, Linux, Jetson, Deep Learning, Computer Vision Tasks, Autonomous Vehicles, GPU Embedded Systems, Real-Time**
 
 - 📫 How to reach me **mmontielpz@gmail.com**
 
