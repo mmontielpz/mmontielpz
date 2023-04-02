@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [My PhD Tesis](https://doctorado.citedi.mx/portal/programaacademicoMatricula.php)
 
-- 🌱 I’m currently learning **Ivy, MLOps, Kubernetes, Neural Architecture Search**
+- 🌱 I’m currently learning **Efficient Deep Learning, Neural Architecture Search, MLOps, Kubernetes**
 
-- 👯 I’m looking to collaborate on [Ivy](https://github.com/unifyai/ivy)
+<!-- - 👯 I’m looking to collaborate on [Ivy](https://github.com/unifyai/ivy) -->
 
 - 💬 Ask me about **Python, PyTorch, Linux, Jetson, Deep Learning, Computer Vision Tasks, Autonomous Vehicles, GPU Embedded Systems, Real-Time**
 
