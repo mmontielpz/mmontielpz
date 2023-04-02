@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mmontielpz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmontielpz" height="30" width="40" /></a>
 <a href="https://kaggle.com/mmontiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mmontiel" height="30" width="40" /></a>
-  <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="Miguel Lopez" height="30" width="40" /></a>
+  <a href="https://www.researchgate.net/profile/Miguel-Lopez-Montiel-3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="Miguel Lopez-Montiel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
