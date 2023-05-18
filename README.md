@@ -22,7 +22,7 @@
   <a href="https://www.researchgate.net/profile/Miguel-Lopez-Montiel-3" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349490/researchgate.svg" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
   <a href="https://scholar.google.com/citations?user=ejQAKasAAAAJ&hl=en" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349396/google-scholar.svg" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
   <a href="https://orcid.org/0000-0001-5367-9801" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349469/orcid.svg" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57212031562" target="_blank"><img align="center" src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/scopus.svg" alt="Miguel Lopez-Montiel" height="55" width="55" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57212031562" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mmontielpz/mmontielpz/main/figs/scopus.png" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
 
   
   
