@@ -24,6 +24,7 @@
   <a href="https://orcid.org/0000-0001-5367-9801" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349469/orcid.svg" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57212031562" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mmontielpz/mmontielpz/main/figs/scopus.png" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
    <a href="https://www.webofscience.com/wos/author/record/IVU-8728-2023" target="_blank"><img align="center" src="https://companieslogo.com/img/orig/CLVT-be02c47f.png?t=1670396639" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
+    <a href="https://sciprofiles.com/profile/3005464" target="_blank"><img align="center" src="https://chaidiradamhome.files.wordpress.com/2022/04/sciprofiles.png?w=776" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
   
 </p>
 
