@@ -25,6 +25,7 @@
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57212031562" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mmontielpz/mmontielpz/main/figs/scopus.png" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
    <a href="https://www.webofscience.com/wos/author/record/IVU-8728-2023" target="_blank"><img align="center" src="https://companieslogo.com/img/orig/CLVT-be02c47f.png?t=1670396639" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
     <a href="https://sciprofiles.com/profile/3005464" target="_blank"><img align="center" src="https://chaidiradamhome.files.wordpress.com/2022/04/sciprofiles.png?w=776" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
+      <a href="https://www.hackerrank.com/mmontielpz?hr_r=1" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
   
 </p>
 
