@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mmontielpz@gmail.com**
 
-- 📄 Know about my experiences ([CV](https://drive.google.com/file/d/1Jo9p9F-wHwl1RjxZTA8LpOxzjl-L0AUL/view?usp=sharing))
+- 📄 Know about my experiences ([CV](https://drive.google.com/file/d/14KJBqlWdR3GyMBa-4ztJtOITogmBxRz4/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
