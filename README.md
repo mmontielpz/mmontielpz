@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Miguel Lopez</h1>
-<h3 align="center">A passionate deep learning researcher from Mexico</h3>
+<h3 align="center">Experienced AI & Deep Learning Researcher | Data Science Manager at ITJ Labs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmontielpz&label=Profile%20views&color=0e75b6&style=flat" alt="mmontielpz" /> </p>
 
 <!-- - 🔭 I’m currently working on [My PhD Tesis](https://doctorado.citedi.mx/portal/programaacademicoMatricula.php) -->
 
-- 🌱 I’m currently learning **Efficient Deep Learning, Neural Architecture Search, MLOps, Kubernetes**
+- 🧐 **Current Focus:** Leading AI-driven projects at ITJ Labs, developing scalable machine learning solutions, and driving industry-academia collaborations for impactful real-world applications.
 
-<!-- - 👯 I’m looking to collaborate on [Ivy](https://github.com/unifyai/ivy) -->
+- 🚀 **Passionate About:** Advancing AI's real-world applications, empowering teams to achieve data-driven solutions, and fostering meaningful collaborations between academia and industry.
+- 🦾 **Areas of Expertise:** AI Research, Deep Learning, Real-Time Computer Vision, Embedded Systems, Cross-Functional Team Leadership, and Industry Collaboration.
 
-- 💬 Ask me about **Python, PyTorch, Linux, Jetson, Deep Learning, Computer Vision Tasks, Autonomous Vehicles, GPU Embedded Systems, Real-Time**
+- 🎯 **Research and Development Goals:** Bridging the gap between cutting-edge research and industry needs through AI-driven innovation, fostering a collaborative environment to drive impactful solutions.
 
-- 📫 How to reach me **mmontielpz@gmail.com**
+- 📫 How to reach me **mmontielpz@gmail.com**, **miguel.lopez@itj.com** 
 
 - 📄 Know about my experiences ([CV](https://drive.google.com/file/d/14KJBqlWdR3GyMBa-4ztJtOITogmBxRz4/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mmontielpz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmontielpz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miguel-angel-lopez-montiel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmontielpz" height="30" width="40" /></a>
 <a href="https://kaggle.com/mmontiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mmontiel" height="30" width="40" /></a>
   <a href="https://www.researchgate.net/profile/Miguel-Lopez-Montiel-3" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349490/researchgate.svg" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
   <a href="https://scholar.google.com/citations?user=ejQAKasAAAAJ&hl=en" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349396/google-scholar.svg" alt="Miguel Lopez-Montiel" height="40" width="40" /></a>
