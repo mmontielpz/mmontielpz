@@ -1,10 +1,10 @@
 <h1 align="center">Miguel Lopez</h1>
 <h3 align="center">
-Machine Learning Engineer · ML Systems · Production AI
+Machine Learning Engineer · Computer Vision · ML Systems · Production AI
 </h3>
 
 <p align="center">
-Building end-to-end machine learning systems, from model training to real-world inference.
+Building production-grade machine learning systems with strong systems and performance focus.
 </p>
 
 <p align="left">
@@ -17,20 +17,11 @@ Building end-to-end machine learning systems, from model training to real-world 
 
 I design and build applied machine learning systems with a strong engineering focus:
 
-• Model implementation and training (PyTorch, from scratch when needed)  
-• Dataset handling, evaluation, and failure analysis  
-• Inference optimization (latency, memory, throughput)  
-• GPU and embedded deployments (Jetson, edge devices)  
-• Reproducible and containerized ML workflows  
-
-Currently Data Science Manager at ITJ Labs, contributing hands-on to ML system design and execution.
-
----
-
-### Areas of Expertise
-
-Machine Learning Engineering · Deep Learning Systems · Real-Time Computer Vision  
-Inference Optimization · GPU & Embedded AI · Linux-based ML Pipelines
+- Model development and evaluation using PyTorch
+- Dataset handling, validation, and failure analysis
+- Inference optimization (latency, memory, throughput)
+- GPU and embedded deployments (Jetson, edge devices)
+- Reproducible and containerized ML workflows  
 
 ---
 
@@ -45,13 +36,11 @@ Inference Optimization · GPU & Embedded AI · Linux-based ML Pipelines
 
 ### Background
 
-PhD in Computer Science.  
-Academic training informs my engineering decisions, with a strong focus on building practical ML systems.
+PhD in Computer Science, applying research principles to the design and deployment of practical ML systems.
 
 ---
 
 ### Contact
 
 Email: mmontielpz@gmail.com  
-LinkedIn: https://www.linkedin.com/in/miguel-angel-lopez-montiel/  
-Hackerrank: https://www.hackerrank.com/mmontielpz
+LinkedIn: https://www.linkedin.com/in/miguel-angel-lopez-montiel/
