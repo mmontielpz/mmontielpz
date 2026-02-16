@@ -1,10 +1,10 @@
 <h1 align="center">Miguel Lopez</h1>
 <h3 align="center">
-Machine Learning Engineer · Computer Vision · ML Systems · Production AI
+Machine Learning Engineer · LLM Systems · Agentic AI · RAG · Production ML
 </h3>
 
 <p align="center">
-Building production-grade machine learning systems with strong systems and performance focus.
+Building production-grade AI systems powered by Large Language Models, retrieval pipelines, and tool-augmented workflows.
 </p>
 
 <p align="left">
@@ -15,28 +15,30 @@ Building production-grade machine learning systems with strong systems and perfo
 
 ### What I Do
 
-I design and build applied machine learning systems with a strong engineering focus:
+I design and build production-grade AI systems with a strong engineering focus:
 
-- Model development and evaluation using PyTorch
-- Dataset handling, validation, and failure analysis
-- Inference optimization (latency, memory, throughput)
-- GPU and embedded deployments (Jetson, edge devices)
-- Reproducible and containerized ML workflows  
+- LLM-based applications for task automation and decision workflows
+- Retrieval-Augmented Generation (RAG) systems with embeddings and vector search
+- Agentic workflows with tool integration and structured output validation
+- Modular AI APIs and services (FastAPI), containerized deployments (Docker)
+- Evaluation and monitoring workflows to ensure reliability, scalability, and cost control
+- Performance optimization under real-world constraints (latency, memory, throughput)
 
 ---
 
 ### Tech Stack
 
 **Languages:** Python · C/C++ · Bash  
+**LLM Systems:** LLM APIs (OpenAI-style) · Embeddings · RAG · Vector DBs (FAISS, Chroma) · Agentic orchestration (LangChain / LangGraph-style)  
 **ML:** PyTorch · scikit-learn · NumPy · Pandas  
-**Systems:** Docker · Linux · Git  
+**Systems:** Docker · Linux · Git · CI/CD  
 **Cloud:** AWS · GCP
 
 ---
 
 ### Background
 
-PhD in Computer Science, applying research principles to the design and deployment of practical ML systems.
+PhD in Computer Science, bridging research rigor with production-ready AI system design and deployment.
 
 ---
 
