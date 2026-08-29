@@ -1,10 +1,11 @@
-<h1 align="center">Miguel Lopez</h1>
+<h1 align="center">Miguel López, Ph.D.</h1>
+
 <h3 align="center">
-Machine Learning Engineer · LLM Systems · Agentic AI · RAG · Production ML
+AI Engineering · Production AI · Agentic Systems · AI Assisted Software Engineering
 </h3>
 
 <p align="center">
-Building production-grade AI systems powered by Large Language Models, retrieval pipelines, and tool-augmented workflows.
+Bridging AI research, production engineering, and the next generation of AI assisted software systems.
 </p>
 
 <p align="left">
@@ -13,36 +14,54 @@ Building production-grade AI systems powered by Large Language Models, retrieval
 
 ---
 
-### What I Do
+## Focus
 
-I design and build production-grade AI systems with a strong engineering focus:
+### Production AI
+Designing reliable AI systems that move from experimentation into real world engineering environments.
 
-- LLM-based applications for task automation and decision workflows
-- Retrieval-Augmented Generation (RAG) systems with embeddings and vector search
-- Agentic workflows with tool integration and structured output validation
-- Modular AI APIs and services (FastAPI), containerized deployments (Docker)
-- Evaluation and monitoring workflows to ensure reliability, scalability, and cost control
-- Performance optimization under real-world constraints (latency, memory, throughput)
+### Agentic Systems
+Exploring LLM based agents, tool use, retrieval, orchestration, evaluation, and multi step AI workflows.
+
+### AI Engineering
+Building the engineering practices behind reliable, measurable, maintainable, and cost efficient AI systems.
 
 ---
 
-### Tech Stack
+## What I Work On
 
-**Languages:** Python · C/C++ · Bash  
-**LLM Systems:** LLM APIs (OpenAI-style) · Embeddings · RAG · Vector DBs (FAISS, Chroma) · Agentic orchestration (LangChain / LangGraph-style)  
-**ML:** PyTorch · scikit-learn · NumPy · Pandas  
-**Systems:** Docker · Linux · Git · CI/CD  
+- Production grade LLM systems and AI services
+- Agentic workflows with tool integration and structured validation
+- Retrieval driven architectures and RAG systems
+- Evaluation, reliability, monitoring, and cost optimization
+- AI assisted software engineering and coding agent workflows
+- Modular AI architectures and API based services
+- Performance optimization under real world constraints such as latency, memory, throughput, and operational reliability
+
+---
+
+## Background
+
+Ph.D. in Computer Science with a research background in Artificial Intelligence and Computer Vision.
+
+My work has evolved from applied AI research and embedded computer vision systems toward production AI, LLM systems, agentic workflows, and AI assisted software engineering.
+
+**Research → Production → Engineering Enablement**
+
+---
+
+## Technical Areas
+
+**AI Systems:** LLMs · RAG · Agentic AI · Evaluation · Retrieval · Tool Use
+
+**Machine Learning:** PyTorch · Computer Vision · Deep Learning · Optimization
+
+**Engineering:** Python · C/C++ · APIs · FastAPI · Docker · Linux · Git · CI/CD
+
 **Cloud:** AWS · GCP
 
 ---
 
-### Background
+## Contact
 
-PhD in Computer Science, bridging research rigor with production-ready AI system design and deployment.
-
----
-
-### Contact
-
-Email: mmontielpz@gmail.com  
-LinkedIn: https://www.linkedin.com/in/miguel-angel-lopez-montiel/
+**LinkedIn:** https://www.linkedin.com/in/miguel-angel-lopez-montiel/  
+**Email:** mmontielpz@gmail.com
